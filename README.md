@@ -33,9 +33,9 @@ Me apasiona la programación aplicada a la ingeniería y la creación de algorit
 
 ## 📈 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giovannialvarado03&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=giovannialvarado03-cell&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannialvarado03&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannialvarado03-cell&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </p>
 
 ---
