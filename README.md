@@ -22,6 +22,9 @@ Me apasiona la programación aplicada a la ingeniería y la creación de algorit
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-DA1F28?style=for-the-badge&logo=solidworks&logoColor=white)
 
 ---
+### 📂 [Sistemas de Control y Algoritmos](TU_LINK_AQUI)
+* Desarrollo de lógica de programación orientada a la resolución de problemas técnicos, gestión de datos y optimización de procesos mediante estructuras de datos eficientes en **C** y **Java**.
+
 
 ## 📚 Educación e Intereses
 - 🎓 **Ingeniería en Mecatrónica** en la Universidad Tecnológica de la Mixteca.
